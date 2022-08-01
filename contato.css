@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(99, 127, 131);
+    background-image: url("https://img.freepik.com/vetores-gratis/fundo-abstrato-colorido_23-2148807053.jpg?w=2000");
+    background-repeat: no-repeat;
+}
+.contato{
+    text-align: center;
+    font-size: 25px;
+    color: aqua;
+}
+h1{
+    text-align: center;
+    color: brown;
+    font-size: 40px;
+}
+
+a{
+    color: aqua;
+}
+button{
+    
+    padding: 10px;
+    background-color: black;
+}
+
+.btn-1{
+   color: aqua;
+}

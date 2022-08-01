@@ -1,0 +1,57 @@
+
+
+        *{
+            box-sizing: border-box;
+            }
+            body{
+                position: 100%;
+               
+                
+                align-items: initial;
+                background-color: rgb(75, 94, 97);
+                background-image: url("imagens/banner");
+                background-size: no-repeat;
+                
+
+        }       
+
+        form  {
+            width: 300px;
+            border-radius: 10px;
+            margin: 200px auto;
+            text-align: center;
+            background-size: initial;
+            color: blue;
+        }
+
+        input{
+            
+            display: block;
+            margin: 10px auto;
+            width: 250px;   
+            height: 65px;
+
+
+        }
+
+        @media screen and (max-width: 768){
+
+
+        }
+            button{
+                background-color: rgb(53, 235, 8);
+                height: 22px;
+                height: 40px;
+                border-radius: 10px;
+            }
+            .btn{
+                float:left;  
+                height:0px;
+                padding: 50px;
+                width: 200px;
+                height: 100px;
+            }
+                
+            
+        
+      
