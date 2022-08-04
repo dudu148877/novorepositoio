@@ -9,7 +9,7 @@
                     
                     
                     
-                    if (login == "eduardosouza77" && senha == "dudu123"){
+                    if (login == "eduardosouza77" && senha == "198023passowrd"){
                     alert('Olá, seja bem vindo (a)')
                     location.href = "curriculo.html";
                     
