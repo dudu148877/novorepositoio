@@ -1,14 +1,14 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-image: url('https://static.vecteezy.com/ti/vetor-gratis/p3/1987871-abstrato-preto-listras-diagonal-fundo-grátis-vetor.jpg');
     background-size: no-repeat;
 }
 p{
-    color: rgb(15, 18, 18);
+    color: rgb(231, 239, 239);
     text-align: center;
     font-size: 40px;
 }
 h1{
-    color: rgb(0, 0, 0);
+    color: rgb(249, 249, 249);
     font-size: 70px;
     text-align: center;
     text-transform: initial;
@@ -18,9 +18,9 @@ button{
     padding: 10px;
     text-align: initial;
     padding-right: 1%;
-    background-color: rgb(106, 211, 9);
+    background-color: rgb(118, 203, 215);
     color: aqua;
 }
 h3{
-    color: black;
+    color: rgb(255, 255, 255);
 }
